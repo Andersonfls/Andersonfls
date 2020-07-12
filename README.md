@@ -2,6 +2,7 @@
 
 <!--
 **Andersonfls/Andersonfls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Development, design of web and mobile applications for startups and large companies.  Developing solutions is my fuel.
 
 Here are some ideas to get you started:
 
@@ -14,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+📫 How to reach me::
+
+👉 [Linkedin](https://www.linkedin.com/in/andersonfr/)
